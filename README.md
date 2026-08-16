@@ -90,7 +90,7 @@ cp .env.example .env.local
 # 4. Launch development server
 npm run dev
 
-# 5. Open http://localhost:3000 in your browser
+# 5. Open https://arogyanexus-ai.onrender.com/  in your browser
 ```
 
 ---
